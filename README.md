@@ -2,7 +2,7 @@
 
 ### Preencher todos os campos de forma consistente, nâo tenha pudor, use o tempo necessário depois só irá precisar realizar pequenos ajustes
 
-# Otimização de Perfil no LinkedIn
+# Otimização de Perfil no LinkedIn 
 
 ## Índice
 1. [Complete Seu Perfil](#1-complete-seu-perfil)
